@@ -1,7 +1,8 @@
 # whatsApp Clone
-Main list of chats,
-Sroll till the end to see the video of how it works!!!!
+Scroll till the end to see the video of how it works!!!!
 
+
+Main list of chats,
 ![WhatsApp Image 2021-06-22 at 11 57 31 AM](https://user-images.githubusercontent.com/74129269/122875114-7691a400-d351-11eb-93fe-6d8df224d4dc.jpeg)
 
 Chatting support:
